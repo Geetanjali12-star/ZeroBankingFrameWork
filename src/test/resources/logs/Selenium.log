@@ -1,0 +1,18 @@
+13:36:44,245 DEBUG MLogger:36 - Launching Chrome Browser
+13:36:51,183 DEBUG MLogger:36 - Launching Chrome Browser
+13:36:59,777 DEBUG MLogger:36 - Launching Chrome Browser
+13:37:02,687 DEBUG MLogger:37 - validated
+13:37:05,018 DEBUG MLogger:36 - Launching Chrome Browser
+13:37:08,048 DEBUG MLogger:37 - validated
+13:37:10,344 DEBUG MLogger:36 - Launching Chrome Browser
+13:37:14,394 DEBUG MLogger:54 - Closing Browser
+13:37:14,686 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+13:37:14,688 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+13:37:14,691 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:37:14,692 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:37:14,692 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Geetanjali%20&%20Manish/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:37:15,106 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+13:37:15,106 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+13:37:15,106 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:37:15,110 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:37:15,110 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/Geetanjali%20&%20Manish/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
